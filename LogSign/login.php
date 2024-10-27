@@ -60,7 +60,7 @@
             </div>
             <hr>
             <p>Not Registered ? <a href="signup.php" class="btn btn-dark">Sign Up </a></p>
-            <p><a href="../LandingPage/index.html">Go to Landing Page</a></p>
+            <p><a href="../LandingPage/index.php">Go to Landing Page</a></p>
         </form>
     </div>
 </body>

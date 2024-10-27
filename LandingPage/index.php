@@ -185,7 +185,7 @@
         </div>
       </section>
 
-      <footer>
+      <footer class="w-full">
         <div>
           <p>Copyright <i class="fa-regular fa-copyright"></i> 2024 Gautam Shah .
             All rights reserved .</p>

@@ -57,7 +57,7 @@
             </div>
             <hr>
             <p>Already Registered ? <a href="login.php" class="btn btn-dark">Login </a></p>
-            <p><a href="../LandingPage/index.html">Go to Landing Page</a></p>
+            <p><a href="../LandingPage/index.php">Go to Landing Page</a></p>
         </form>
     </div>
 </body>
