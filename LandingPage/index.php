@@ -38,7 +38,7 @@
           <li><a href="#services">Services</a></li>
           <li><a href="#doctors">Doctors</a></li>
           <li><a href="#contact">Contact</a></li>
-          <li><button class="btn btn-primary"><a href="../LogSign/login.php" class="text-light">Login</a></button></li>
+          <li><button class="btn btn-primary"><a href="../LogSign/login.php" class="text-light">Login / Sign Up</a></button></li>
           <i class="fa-solid fa-xmark" onclick="closeMenu()"></i>
         </ul>
         <i class="fa-solid fa-bars" id="first-nav" onclick="openMenu()"></i>
