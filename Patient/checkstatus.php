@@ -50,7 +50,7 @@ if (!isset($_SESSION['name'])) {
 
                     }
                 } else {
-                    echo '<h2 class=text-danger>Data Not Found</h2>';
+                    echo '<h2 class="text-danger text-center">No Appointment Booked Till Now</h2>';
                 }
             }
             ?>
